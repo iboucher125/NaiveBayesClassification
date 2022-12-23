@@ -1,0 +1,4 @@
+@data
+presbyopic,hypermetrope,yes,normal,none
+
+
